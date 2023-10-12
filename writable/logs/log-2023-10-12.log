@@ -1,0 +1,133 @@
+CRITICAL - 2023-10-12 12:05:31 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:07:45 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:11:38 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:13 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:14 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:15 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:16 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:16 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:16 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:17 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:16:18 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:20:22 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:20:23 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:24:18 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:24:19 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:24:20 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:25:04 --> Class "App\Controllers\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:25:28 --> Class "App\Controllers\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
+CRITICAL - 2023-10-12 12:25:54 --> Class "App\Models\ProductModels" not found
+in APPPATH\Controllers\ProductController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\backend\\public\\index.php')
